@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/pineylilly/drawn-frontend.git
+[submodule "ms-user-management"]
+	path = ms-user-management
+	url = https://github.com/pineylilly/drawn-ms-user-management.git

@@ -7,7 +7,7 @@ This project is a part of final project in 2110521 Software Architecture (2024/1
 ## Child Repositories
 - [Frontend](https://github.com/pineylilly/drawn-frontend)
 - API Gateway
-- User Management Microservice
+- [User Management Microservice](https://github.com/pineylilly/drawn-ms-user-management)
 - Workspace Management Microservice
 - Collaboration Microservice
 - Chat Microservice
