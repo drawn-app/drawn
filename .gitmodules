@@ -4,3 +4,6 @@
 [submodule "ms-user-management"]
 	path = ms-user-management
 	url = https://github.com/pineylilly/drawn-ms-user-management.git
+[submodule "ms-workspace-management"]
+	path = ms-workspace-management
+	url = https://github.com/pineylilly/drawn-ms-workspace-management.git
