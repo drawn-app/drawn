@@ -7,3 +7,6 @@
 [submodule "ms-workspace-management"]
 	path = ms-workspace-management
 	url = https://github.com/pineylilly/drawn-ms-workspace-management.git
+[submodule "ms-chat"]
+	path = ms-chat
+	url = https://github.com/pineylilly/drawn-ms-chat.git
